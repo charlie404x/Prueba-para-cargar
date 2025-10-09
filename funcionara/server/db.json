@@ -1,0 +1,568 @@
+{
+  "sales": [
+    {
+      "id": 1,
+      "creationDate": "4/10/2025",
+      "creationTime": "17:08:07",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 70,
+      "waiter": "Ana"
+    },
+    {
+      "id": 2,
+      "creationDate": "4/10/2025",
+      "creationTime": "18:12:55",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 95,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 3,
+      "creationDate": "5/10/2025",
+      "creationTime": "11:05:13",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 55,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 4,
+      "creationDate": "5/10/2025",
+      "creationTime": "13:45:00",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 120,
+      "waiter": "Luis"
+    },
+    {
+      "id": 5,
+      "creationDate": "5/10/2025",
+      "creationTime": "15:22:40",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 80,
+      "waiter": "María"
+    },
+    {
+      "id": 6,
+      "creationDate": "6/10/2025",
+      "creationTime": "09:15:22",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 65,
+      "waiter": "Ana"
+    },
+    {
+      "id": 7,
+      "creationDate": "6/10/2025",
+      "creationTime": "10:48:10",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 110,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 8,
+      "creationDate": "6/10/2025",
+      "creationTime": "12:17:36",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 90,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 9,
+      "creationDate": "6/10/2025",
+      "creationTime": "13:01:27",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 60,
+      "waiter": "Luis"
+    },
+    {
+      "id": 10,
+      "creationDate": "7/10/2025",
+      "creationTime": "17:33:59",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 75,
+      "waiter": "María"
+    },
+    {
+      "id": 11,
+      "creationDate": "7/10/2025",
+      "creationTime": "18:15:10",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 45,
+      "waiter": "Ana"
+    },
+    {
+      "id": 12,
+      "creationDate": "8/10/2025",
+      "creationTime": "09:55:40",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 120,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 13,
+      "creationDate": "8/10/2025",
+      "creationTime": "11:10:18",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 150,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 14,
+      "creationDate": "8/10/2025",
+      "creationTime": "12:50:00",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 85,
+      "waiter": "Luis"
+    },
+    {
+      "id": 15,
+      "creationDate": "8/10/2025",
+      "creationTime": "13:22:45",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 90,
+      "waiter": "María"
+    },
+    {
+      "id": 16,
+      "creationDate": "9/10/2025",
+      "creationTime": "14:10:12",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 130,
+      "waiter": "Ana"
+    },
+    {
+      "id": 17,
+      "creationDate": "9/10/2025",
+      "creationTime": "15:44:50",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 100,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 18,
+      "creationDate": "9/10/2025",
+      "creationTime": "17:08:07",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 75,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 19,
+      "creationDate": "10/10/2025",
+      "creationTime": "09:22:33",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 140,
+      "waiter": "Luis"
+    },
+    {
+      "id": 20,
+      "creationDate": "10/10/2025",
+      "creationTime": "10:58:10",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 60,
+      "waiter": "María"
+    },
+    {
+      "id": 21,
+      "creationDate": "10/10/2025",
+      "creationTime": "12:18:49",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 95,
+      "waiter": "Ana"
+    },
+    {
+      "id": 22,
+      "creationDate": "10/10/2025",
+      "creationTime": "13:41:00",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 70,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 23,
+      "creationDate": "11/10/2025",
+      "creationTime": "09:14:55",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 125,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 24,
+      "creationDate": "11/10/2025",
+      "creationTime": "11:45:20",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 85,
+      "waiter": "Luis"
+    },
+    {
+      "id": 25,
+      "creationDate": "11/10/2025",
+      "creationTime": "13:20:40",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 90,
+      "waiter": "María"
+    },
+    {
+      "id": 26,
+      "creationDate": "12/10/2025",
+      "creationTime": "09:50:18",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 100,
+      "waiter": "Ana"
+    },
+    {
+      "id": 27,
+      "creationDate": "12/10/2025",
+      "creationTime": "11:30:22",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 115,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 28,
+      "creationDate": "12/10/2025",
+      "creationTime": "12:55:40",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 65,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 29,
+      "creationDate": "13/10/2025",
+      "creationTime": "14:11:05",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 120,
+      "waiter": "Luis"
+    },
+    {
+      "id": 30,
+      "creationDate": "13/10/2025",
+      "creationTime": "15:25:50",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 80,
+      "waiter": "María"
+    },
+    {
+      "id": 31,
+      "creationDate": "13/10/2025",
+      "creationTime": "17:10:45",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 70,
+      "waiter": "Ana"
+    },
+    {
+      "id": 32,
+      "creationDate": "14/10/2025",
+      "creationTime": "10:40:25",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 95,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 33,
+      "creationDate": "14/10/2025",
+      "creationTime": "12:55:00",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 150,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 34,
+      "creationDate": "14/10/2025",
+      "creationTime": "14:08:12",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 85,
+      "waiter": "Luis"
+    },
+    {
+      "id": 35,
+      "creationDate": "14/10/2025",
+      "creationTime": "16:19:40",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 200,
+      "waiter": "María"
+    },
+    {
+      "id": 36,
+      "creationDate": "15/10/2025",
+      "creationTime": "09:33:00",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 60,
+      "waiter": "Ana"
+    },
+    {
+      "id": 37,
+      "creationDate": "15/10/2025",
+      "creationTime": "10:20:45",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 110,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 38,
+      "creationDate": "15/10/2025",
+      "creationTime": "12:05:55",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 125,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 39,
+      "creationDate": "15/10/2025",
+      "creationTime": "13:25:22",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 140,
+      "waiter": "Luis"
+    },
+    {
+      "id": 40,
+      "creationDate": "15/10/2025",
+      "creationTime": "14:15:10",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 95,
+      "waiter": "María"
+    },
+    {
+      "id": 41,
+      "creationDate": "16/10/2025",
+      "creationTime": "09:11:11",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 100,
+      "waiter": "Ana"
+    },
+    {
+      "id": 42,
+      "creationDate": "16/10/2025",
+      "creationTime": "11:30:00",
+      "saleType": "delivery",
+      "paymentMethod": "card",
+      "total": 80,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 43,
+      "creationDate": "16/10/2025",
+      "creationTime": "13:12:30",
+      "saleType": "in-person",
+      "paymentMethod": "Yape",
+      "total": 160,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 44,
+      "creationDate": "16/10/2025",
+      "creationTime": "14:48:05",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 60,
+      "waiter": "Luis"
+    },
+    {
+      "id": 45,
+      "creationDate": "17/10/2025",
+      "creationTime": "09:00:00",
+      "saleType": "in-person",
+      "paymentMethod": "cash",
+      "total": 85,
+      "waiter": "María"
+    },
+    {
+      "id": 46,
+      "creationDate": "17/10/2025",
+      "creationTime": "11:45:22",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 140,
+      "waiter": "Ana"
+    },
+    {
+      "id": 47,
+      "creationDate": "17/10/2025",
+      "creationTime": "13:33:40",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 115,
+      "waiter": "Carlos"
+    },
+    {
+      "id": 48,
+      "creationDate": "17/10/2025",
+      "creationTime": "15:10:55",
+      "saleType": "delivery",
+      "paymentMethod": "cash",
+      "total": 70,
+      "waiter": "Lucía"
+    },
+    {
+      "id": 49,
+      "creationDate": "18/10/2025",
+      "creationTime": "09:22:30",
+      "saleType": "in-person",
+      "paymentMethod": "card",
+      "total": 130,
+      "waiter": "Luis"
+    },
+    {
+      "id": 50,
+      "creationDate": "18/10/2025",
+      "creationTime": "11:44:18",
+      "saleType": "delivery",
+      "paymentMethod": "Yape",
+      "total": 150,
+      "waiter": "María"
+    },
+
+
+
+    { "id": 51, "creationDate": "18/10/2025", "creationTime": "13:10:40", "saleType": "in-person", "paymentMethod": "cash", "total": 95, "waiter": "Ana" },
+    { "id": 52, "creationDate": "18/10/2025", "creationTime": "14:55:12", "saleType": "delivery", "paymentMethod": "card", "total": 70, "waiter": "Carlos" },
+    { "id": 53, "creationDate": "19/10/2025", "creationTime": "09:40:33", "saleType": "in-person", "paymentMethod": "Yape", "total": 160, "waiter": "Lucía" },
+    { "id": 54, "creationDate": "19/10/2025", "creationTime": "11:15:55", "saleType": "delivery", "paymentMethod": "cash", "total": 75, "waiter": "Luis" },
+    { "id": 55, "creationDate": "19/10/2025", "creationTime": "12:50:10", "saleType": "in-person", "paymentMethod": "card", "total": 110, "waiter": "María" },
+    { "id": 56, "creationDate": "19/10/2025", "creationTime": "14:25:44", "saleType": "delivery", "paymentMethod": "Yape", "total": 125, "waiter": "Ana" },
+    { "id": 57, "creationDate": "20/10/2025", "creationTime": "09:05:00", "saleType": "in-person", "paymentMethod": "cash", "total": 85, "waiter": "Carlos" },
+    { "id": 58, "creationDate": "20/10/2025", "creationTime": "10:33:12", "saleType": "delivery", "paymentMethod": "card", "total": 95, "waiter": "Lucía" },
+    { "id": 59, "creationDate": "20/10/2025", "creationTime": "12:12:49", "saleType": "in-person", "paymentMethod": "Yape", "total": 140, "waiter": "Luis" },
+    { "id": 60, "creationDate": "20/10/2025", "creationTime": "13:57:20", "saleType": "delivery", "paymentMethod": "cash", "total": 65, "waiter": "María" },
+    { "id": 61, "creationDate": "21/10/2025", "creationTime": "09:44:30", "saleType": "in-person", "paymentMethod": "card", "total": 120, "waiter": "Ana" },
+    { "id": 62, "creationDate": "21/10/2025", "creationTime": "11:11:05", "saleType": "delivery", "paymentMethod": "Yape", "total": 135, "waiter": "Carlos" },
+    { "id": 63, "creationDate": "21/10/2025", "creationTime": "12:36:40", "saleType": "in-person", "paymentMethod": "cash", "total": 90, "waiter": "Lucía" },
+    { "id": 64, "creationDate": "21/10/2025", "creationTime": "14:20:59", "saleType": "delivery", "paymentMethod": "card", "total": 75, "waiter": "Luis" },
+    { "id": 65, "creationDate": "22/10/2025", "creationTime": "09:55:22", "saleType": "in-person", "paymentMethod": "Yape", "total": 180, "waiter": "María" },
+    { "id": 66, "creationDate": "22/10/2025", "creationTime": "11:44:38", "saleType": "delivery", "paymentMethod": "cash", "total": 80, "waiter": "Ana" },
+    { "id": 67, "creationDate": "22/10/2025", "creationTime": "13:05:15", "saleType": "in-person", "paymentMethod": "card", "total": 100, "waiter": "Carlos" },
+    { "id": 68, "creationDate": "22/10/2025", "creationTime": "14:30:27", "saleType": "delivery", "paymentMethod": "Yape", "total": 150, "waiter": "Lucía" },
+    { "id": 69, "creationDate": "23/10/2025", "creationTime": "09:18:40", "saleType": "in-person", "paymentMethod": "cash", "total": 110, "waiter": "Luis" },
+    { "id": 70, "creationDate": "23/10/2025", "creationTime": "10:45:00", "saleType": "delivery", "paymentMethod": "card", "total": 85, "waiter": "María" },
+    { "id": 71, "creationDate": "23/10/2025", "creationTime": "12:22:44", "saleType": "in-person", "paymentMethod": "Yape", "total": 145, "waiter": "Ana" },
+    { "id": 72, "creationDate": "23/10/2025", "creationTime": "14:05:30", "saleType": "delivery", "paymentMethod": "cash", "total": 70, "waiter": "Carlos" },
+    { "id": 73, "creationDate": "24/10/2025", "creationTime": "09:11:19", "saleType": "in-person", "paymentMethod": "card", "total": 95, "waiter": "Lucía" },
+    { "id": 74, "creationDate": "24/10/2025", "creationTime": "11:25:55", "saleType": "delivery", "paymentMethod": "Yape", "total": 130, "waiter": "Luis" },
+    { "id": 75, "creationDate": "24/10/2025", "creationTime": "13:10:10", "saleType": "in-person", "paymentMethod": "cash", "total": 100, "waiter": "María" },
+    { "id": 76, "creationDate": "24/10/2025", "creationTime": "15:00:22", "saleType": "delivery", "paymentMethod": "card", "total": 80, "waiter": "Ana" },
+    { "id": 77, "creationDate": "25/10/2025", "creationTime": "09:40:55", "saleType": "in-person", "paymentMethod": "Yape", "total": 155, "waiter": "Carlos" },
+    { "id": 78, "creationDate": "25/10/2025", "creationTime": "11:12:40", "saleType": "delivery", "paymentMethod": "cash", "total": 65, "waiter": "Lucía" },
+    { "id": 79, "creationDate": "25/10/2025", "creationTime": "13:45:22", "saleType": "in-person", "paymentMethod": "card", "total": 125, "waiter": "Luis" },
+    { "id": 80, "creationDate": "25/10/2025", "creationTime": "15:20:30", "saleType": "delivery", "paymentMethod": "Yape", "total": 140, "waiter": "María" },
+    { "id": 81, "creationDate": "26/10/2025", "creationTime": "09:05:15", "saleType": "in-person", "paymentMethod": "cash", "total": 105, "waiter": "Ana" },
+    { "id": 82, "creationDate": "26/10/2025", "creationTime": "10:48:10", "saleType": "delivery", "paymentMethod": "card", "total": 90, "waiter": "Carlos" },
+    { "id": 83, "creationDate": "26/10/2025", "creationTime": "12:22:00", "saleType": "in-person", "paymentMethod": "Yape", "total": 175, "waiter": "Lucía" },
+    { "id": 84, "creationDate": "26/10/2025", "creationTime": "14:05:33", "saleType": "delivery", "paymentMethod": "cash", "total": 85, "waiter": "Luis" },
+    { "id": 85, "creationDate": "27/10/2025", "creationTime": "09:30:10", "saleType": "in-person", "paymentMethod": "card", "total": 120, "waiter": "María" },
+    { "id": 86, "creationDate": "27/10/2025", "creationTime": "11:11:55", "saleType": "delivery", "paymentMethod": "Yape", "total": 135, "waiter": "Ana" },
+    { "id": 87, "creationDate": "27/10/2025", "creationTime": "12:55:44", "saleType": "in-person", "paymentMethod": "cash", "total": 115, "waiter": "Carlos" },
+    { "id": 88, "creationDate": "27/10/2025", "creationTime": "14:40:22", "saleType": "delivery", "paymentMethod": "card", "total": 95, "waiter": "Lucía" },
+    { "id": 89, "creationDate": "28/10/2025", "creationTime": "09:22:40", "saleType": "in-person", "paymentMethod": "Yape", "total": 150, "waiter": "Luis" },
+    { "id": 90, "creationDate": "28/10/2025", "creationTime": "11:00:15", "saleType": "delivery", "paymentMethod": "cash", "total": 70, "waiter": "María" },
+    { "id": 91, "creationDate": "28/10/2025", "creationTime": "12:30:44", "saleType": "in-person", "paymentMethod": "card", "total": 140, "waiter": "Ana" },
+    { "id": 92, "creationDate": "28/10/2025", "creationTime": "14:12:55", "saleType": "delivery", "paymentMethod": "Yape", "total": 160, "waiter": "Carlos" },
+    { "id": 93, "creationDate": "29/10/2025", "creationTime": "09:18:30", "saleType": "in-person", "paymentMethod": "cash", "total": 95, "waiter": "Lucía" },
+    { "id": 94, "creationDate": "29/10/2025", "creationTime": "11:22:15", "saleType": "delivery", "paymentMethod": "card", "total": 105, "waiter": "Luis" },
+    { "id": 95, "creationDate": "29/10/2025", "creationTime": "13:00:40", "saleType": "in-person", "paymentMethod": "Yape", "total": 180, "waiter": "María" },
+    { "id": 96, "creationDate": "29/10/2025", "creationTime": "14:55:33", "saleType": "delivery", "paymentMethod": "cash", "total": 75, "waiter": "Ana" },
+    { "id": 97, "creationDate": "30/10/2025", "creationTime": "09:40:25", "saleType": "in-person", "paymentMethod": "card", "total": 115, "waiter": "Carlos" },
+    { "id": 98, "creationDate": "30/10/2025", "creationTime": "11:30:10", "saleType": "delivery", "paymentMethod": "Yape", "total": 140, "waiter": "Lucía" },
+    { "id": 99, "creationDate": "30/10/2025", "creationTime": "13:25:50", "saleType": "in-person", "paymentMethod": "cash", "total": 125, "waiter": "Luis" },
+    { "id": 100, "creationDate": "30/10/2025", "creationTime": "15:15:00", "saleType": "delivery", "paymentMethod": "card", "total": 90, "waiter": "María" }
+
+
+
+
+
+  ],
+
+
+
+  "saleItems": [
+    { "name": "Lomo Saltado", "priceUnit": 25, "quantity": 3, "subtotal": 75, "saleId": 1, "id": 1 },
+    { "name": "Ceviche Clásico", "priceUnit": 30, "quantity": 2, "subtotal": 60, "saleId": 1, "id": 2 },
+    { "name": "Ají de Gallina", "priceUnit": 22, "quantity": 4, "subtotal": 88, "saleId": 2, "id": 3 },
+    { "name": "Arroz Chaufa de Pollo", "priceUnit": 20, "quantity": 5, "subtotal": 100, "saleId": 2, "id": 4 },
+    { "name": "Pollo a la Brasa", "priceUnit": 35, "quantity": 3, "subtotal": 105, "saleId": 3, "id": 5 },
+    { "name": "Tallarines Verdes con Bistec", "priceUnit": 27, "quantity": 2, "subtotal": 54, "saleId": 3, "id": 6 },
+    { "name": "Seco de Cabrito", "priceUnit": 28, "quantity": 3, "subtotal": 84, "saleId": 4, "id": 7 },
+    { "name": "Causa Limeña", "priceUnit": 18, "quantity": 4, "subtotal": 72, "saleId": 4, "id": 8 },
+    { "name": "Papa a la Huancaína", "priceUnit": 15, "quantity": 5, "subtotal": 75, "saleId": 5, "id": 9 },
+    { "name": "Anticuchos de Corazón", "priceUnit": 20, "quantity": 4, "subtotal": 80, "saleId": 5, "id": 10 },
+    { "name": "Tallarín Saltado de Carne", "priceUnit": 23, "quantity": 3, "subtotal": 69, "saleId": 6, "id": 11 },
+    { "name": "Arroz con Pollo", "priceUnit": 21, "quantity": 6, "subtotal": 126, "saleId": 6, "id": 12 },
+    { "name": "Cau Cau", "priceUnit": 18, "quantity": 2, "subtotal": 36, "saleId": 7, "id": 13 },
+    { "name": "Carapulcra con Sopa Seca", "priceUnit": 26, "quantity": 3, "subtotal": 78, "saleId": 7, "id": 14 },
+    { "name": "Chicharrón de Pescado", "priceUnit": 28, "quantity": 4, "subtotal": 112, "saleId": 8, "id": 15 },
+    { "name": "Sudado de Pescado", "priceUnit": 29, "quantity": 2, "subtotal": 58, "saleId": 8, "id": 16 },
+    { "name": "Ocopa Arequipeña", "priceUnit": 17, "quantity": 4, "subtotal": 68, "saleId": 9, "id": 17 },
+    { "name": "Adobo Arequipeño", "priceUnit": 32, "quantity": 3, "subtotal": 96, "saleId": 9, "id": 18 },
+    { "name": "Lechón al Horno", "priceUnit": 34, "quantity": 2, "subtotal": 68, "saleId": 10, "id": 19 },
+    { "name": "Caldo de Gallina", "priceUnit": 16, "quantity": 5, "subtotal": 80, "saleId": 10, "id": 20 },
+    { "name": "Juane Amazónico", "priceUnit": 27, "quantity": 3, "subtotal": 81, "saleId": 11, "id": 21 },
+    { "name": "Tacacho con Cecina", "priceUnit": 26, "quantity": 3, "subtotal": 78, "saleId": 11, "id": 22 },
+    { "name": "Tallarines Rojos con Pollo", "priceUnit": 22, "quantity": 4, "subtotal": 88, "saleId": 12, "id": 23 },
+    { "name": "Mondonguito a la Italiana", "priceUnit": 25, "quantity": 2, "subtotal": 50, "saleId": 12, "id": 24 },
+    { "name": "Pachamanca", "priceUnit": 38, "quantity": 3, "subtotal": 114, "saleId": 13, "id": 25 },
+    { "name": "Arroz Tapado", "priceUnit": 20, "quantity": 3, "subtotal": 60, "saleId": 13, "id": 26 },
+    { "name": "Tallarines a la Huancaína", "priceUnit": 23, "quantity": 3, "subtotal": 69, "saleId": 14, "id": 27 },
+    { "name": "Pollo al Curry", "priceUnit": 30, "quantity": 2, "subtotal": 60, "saleId": 14, "id": 28 },
+    { "name": "Ensalada César con Pollo", "priceUnit": 18, "quantity": 5, "subtotal": 90, "saleId": 15, "id": 29 },
+    { "name": "Hamburguesa Artesanal", "priceUnit": 19, "quantity": 4, "subtotal": 76, "saleId": 15, "id": 30 },
+    { "name": "Tacos al Pastor", "priceUnit": 22, "quantity": 3, "subtotal": 66, "saleId": 16, "id": 31 },
+    { "name": "Pizza Margarita", "priceUnit": 28, "quantity": 2, "subtotal": 56, "saleId": 16, "id": 32 },
+    { "name": "Lasagna Boloñesa", "priceUnit": 30, "quantity": 3, "subtotal": 90, "saleId": 17, "id": 33 },
+    { "name": "Sopa Criolla", "priceUnit": 15, "quantity": 4, "subtotal": 60, "saleId": 17, "id": 34 },
+    { "name": "Bistec a lo Pobre", "priceUnit": 33, "quantity": 2, "subtotal": 66, "saleId": 18, "id": 35 },
+    { "name": "Chaufa de Mariscos", "priceUnit": 27, "quantity": 5, "subtotal": 135, "saleId": 18, "id": 36 },
+    { "name": "Ensalada Rusa", "priceUnit": 14, "quantity": 3, "subtotal": 42, "saleId": 19, "id": 37 },
+    { "name": "Empanadas de Carne", "priceUnit": 10, "quantity": 6, "subtotal": 60, "saleId": 19, "id": 38 },
+    { "name": "Tallarines Alfredo", "priceUnit": 26, "quantity": 2, "subtotal": 52, "saleId": 20, "id": 39 },
+    { "name": "Ceviche Mixto", "priceUnit": 32, "quantity": 3, "subtotal": 96, "saleId": 20, "id": 40 },
+    { "name": "Costillas BBQ", "priceUnit": 35, "quantity": 2, "subtotal": 70, "saleId": 21, "id": 41 },
+    { "name": "Sushi Roll Acevichado", "priceUnit": 30, "quantity": 3, "subtotal": 90, "saleId": 21, "id": 42 },
+    { "name": "Chaufa de Res", "priceUnit": 24, "quantity": 4, "subtotal": 96, "saleId": 22, "id": 43 },
+    { "name": "Chupe de Camarones", "priceUnit": 34, "quantity": 2, "subtotal": 68, "saleId": 22, "id": 44 },
+    { "name": "Ensalada de Quinoa", "priceUnit": 17, "quantity": 3, "subtotal": 51, "saleId": 23, "id": 45 },
+    { "name": "Pollo Saltado", "priceUnit": 24, "quantity": 4, "subtotal": 96, "saleId": 23, "id": 46 },
+    { "name": "Tamal Criollo", "priceUnit": 12, "quantity": 5, "subtotal": 60, "saleId": 24, "id": 47 },
+    { "name": "Pan con Chicharrón", "priceUnit": 15, "quantity": 6, "subtotal": 90, "saleId": 24, "id": 48 },
+    { "name": "Aguadito de Pollo", "priceUnit": 18, "quantity": 3, "subtotal": 54, "saleId": 25, "id": 49 },
+    { "name": "Pescado a la Plancha", "priceUnit": 29, "quantity": 2, "subtotal": 58, "saleId": 25, "id": 50 }
+  ]
+
+}
